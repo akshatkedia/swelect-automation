@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//swelectautomation.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://swelectautomation.com/blog/</loc>
+		<loc>https://www.swelectautomation.com/blog/</loc>
 		<lastmod>2018-08-11T13:54:10+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://swelectautomation.com/smart-lighting/</loc>
+		<loc>https://www.swelectautomation.com/smart-lighting/</loc>
 		<lastmod>2018-08-11T13:54:10+05:00</lastmod>
 		<image:image>
-			<image:loc>https://swelectautomation.com/wp-content/uploads/2018/08/1524089811_0100591854511lindenhills041818.online722738-1024x683-1.jpeg</image:loc>
+			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/1524089811_0100591854511lindenhills041818.online722738-1024x683-1.jpeg</image:loc>
 			<image:title><![CDATA[1524089811_0100591854511lindenhills041818.online722738-1024x683]]></image:title>
 		</image:image>
 		<image:image>
-			<image:loc>https://swelectautomation.com/wp-content/uploads/2018/08/1524089811_0100591854511lindenhills041818.online722738.jpeg</image:loc>
+			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/1524089811_0100591854511lindenhills041818.online722738.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
