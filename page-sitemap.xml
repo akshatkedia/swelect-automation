@@ -1,115 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//swelectautomation.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//swelect.co/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.swelectautomation.com/</loc>
+		<loc>https://www.swelect.co/</loc>
 		<lastmod>2019-04-18T14:28:06+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/property-owners/</loc>
+		<loc>https://www.swelect.co/property-owners/</loc>
 		<lastmod>2018-07-06T16:32:52+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/for-architects-builders-and-designers/</loc>
+		<loc>https://www.swelect.co/for-architects-builders-and-designers/</loc>
 		<lastmod>2018-07-09T17:57:02+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/about-company/</loc>
+		<loc>https://www.swelect.co/about-company/</loc>
 		<lastmod>2018-07-16T17:47:54+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/team/</loc>
+		<loc>https://www.swelect.co/team/</loc>
 		<lastmod>2018-07-16T17:48:11+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/services/</loc>
+		<loc>https://www.swelect.co/services/</loc>
 		<lastmod>2018-07-16T17:48:26+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/smart-security-surveillance/</loc>
+		<loc>https://www.swelect.co/smart-security-surveillance/</loc>
 		<lastmod>2018-08-10T18:51:41+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/lighting-automation-smart-lighting/</loc>
+		<loc>https://www.swelect.co/lighting-automation-smart-lighting/</loc>
 		<lastmod>2018-08-12T18:02:30+05:00</lastmod>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/1470399662_Marketing.png</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/1470399662_Marketing.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/1470399671_SEO.png</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/1470399671_SEO.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/1470399656_Branding.png</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/1470399656_Branding.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/1470399715_E-Commerce.png</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/1470399715_E-Commerce.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/1470399667_Newsletter.png</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/1470399667_Newsletter.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/1470399715_E-Commerce.png</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/1470399715_E-Commerce.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/25497478040_140ce47f31_k.jpg</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/25497478040_140ce47f31_k.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/about-swelect/</loc>
+		<loc>https://www.swelect.co/about-swelect/</loc>
 		<lastmod>2018-08-13T14:01:49+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/faq/</loc>
+		<loc>https://www.swelect.co/faq/</loc>
 		<lastmod>2019-04-15T15:21:15+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/contact-us/</loc>
+		<loc>https://www.swelect.co/contact-us/</loc>
 		<lastmod>2019-04-18T15:03:00+05:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.swelectautomation.com/smart-home-solutions/</loc>
+		<loc>https://www.swelect.co/smart-home-solutions/</loc>
 		<lastmod>2019-04-18T15:07:32+05:00</lastmod>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/smart-home-3395994_1280.jpg</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/smart-home-3395994_1280.jpg</image:loc>
 			<image:caption><![CDATA[smart home]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/-%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%BC-%D1%81-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B01-e1533567664514.jpg</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/-%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%BC-%D1%81-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B01-e1533567664514.jpg</image:loc>
 			<image:caption><![CDATA[smart home automation]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/security-and-surveillance-banner.jpg</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/security-and-surveillance-banner.jpg</image:loc>
 			<image:caption><![CDATA[Security and surveillance solutions]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/home-efficiency.jpg</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/home-efficiency.jpg</image:loc>
 			<image:caption><![CDATA[Energy efficient homes]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/images-5.jpeg</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/images-5.jpeg</image:loc>
 			<image:caption><![CDATA[Nest thermostat climate control]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/cinema-room-spectacular-on-interior-and-exterior-designs-plus-20-home-ideas-ultralinx-within-3.jpg</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/cinema-room-spectacular-on-interior-and-exterior-designs-plus-20-home-ideas-ultralinx-within-3.jpg</image:loc>
 			<image:caption><![CDATA[Home theatre and multimedia solutions for smart homes]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/news-buildings-jan18-innogy.jpg</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/news-buildings-jan18-innogy.jpg</image:loc>
 			<image:caption><![CDATA[Audio visual (AV) solutions for business presentation or conferencing.]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.swelectautomation.com/wp-content/uploads/2018/08/356e68b3-5906-4c0b-80ec-40fb13d45527-Copy.jpg</image:loc>
+			<image:loc>https://www.swelect.co/wp-content/uploads/2018/08/356e68b3-5906-4c0b-80ec-40fb13d45527-Copy.jpg</image:loc>
 			<image:caption><![CDATA[Smart building materials]]></image:caption>
 		</image:image>
 	</url>
