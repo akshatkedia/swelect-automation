@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//swelect.co/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//auvicon.in/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+						http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd"
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
 		<lastmod>2019-04-18T14:28:06+05:00</lastmod>
@@ -66,7 +70,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about-swelect/</loc>
+		<loc>/about-auvicon/</loc>
 		<lastmod>2018-08-13T14:01:49+05:00</lastmod>
 	</url>
 	<url>
@@ -85,7 +89,8 @@
 			<image:caption><![CDATA[smart home]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/08/-%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%BC-%D1%81-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B01-e1533567664514.jpg</image:loc>
+			<image:loc>
+				/wp-content/uploads/2018/08/-%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%BC-%D1%81-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B01-e1533567664514.jpg</image:loc>
 			<image:caption><![CDATA[smart home automation]]></image:caption>
 		</image:image>
 		<image:image>
@@ -101,7 +106,8 @@
 			<image:caption><![CDATA[Nest thermostat climate control]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2018/08/cinema-room-spectacular-on-interior-and-exterior-designs-plus-20-home-ideas-ultralinx-within-3.jpg</image:loc>
+			<image:loc>
+				/wp-content/uploads/2018/08/cinema-room-spectacular-on-interior-and-exterior-designs-plus-20-home-ideas-ultralinx-within-3.jpg</image:loc>
 			<image:caption><![CDATA[Home theatre and multimedia solutions for smart homes]]></image:caption>
 		</image:image>
 		<image:image>
